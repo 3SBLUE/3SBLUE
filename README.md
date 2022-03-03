@@ -48,11 +48,11 @@ I like to think of myself as being a full-time scientist because I'm always lear
 
 #### Hey... Tell me what you know!
 
-Well... I've expertise working with Java and NodeJS *ecosystems* for backend solutions: Rest APIs, GRAPHQL APIs, common frameworks (Spring Boot, Express, etc)... I also have a passion for working as frontend (React, React Native and Vue) because I find it to exercise my creative side a lot.
+Well... I've expertise working with NodeJS and PHP for backend solutions: Rest APIs, GRAPHQL APIs, common frameworks ( Express, etc)... I also have a passion for working as a frontend (React, and Vue) because I find it to exercise my creative side a lot.
 
-Currently sharpening my skills on Solana.
+And have specialized in realistic blockchain applications 
 
-Because of some curiosity about DevOps, it's worth mentioning that I've got a very good understanding of CI/CD tools, Docker and Kubernetes.
+Because of the big trend in decentralization technology, have solid experience with Defi, Staking, NFT marketplace, and NFT minting.
 
 If you want to see more of my techstack, please, [click here](https://stackshare.io/smartcode1107).
 
