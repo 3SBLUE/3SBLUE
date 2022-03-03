@@ -1,4 +1,4 @@
-## Hi, I'm Kevin!
+## Hi, Everyone
 
 👨‍🎓 Bachelor in Computer Science
 
