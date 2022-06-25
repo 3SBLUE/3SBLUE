@@ -1,13 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neverland23&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me : I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Neverland
@@ -20,11 +10,9 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: <br/>
-  Site : <a href="https://neverland23216.vercel.app/" target="_blank">https://neverland23216.vercel.app/</a><br/>
-  Phone : +1 303 800 8634<br/>
-  Email : jhmun23216@gmail.com<br/>
-  Telegram : https://t.me/jhmun23216<br/>
-  Skype : live:.cid.ea6b3af066a3436e<br/>
+  Site : <a href="https://skyblue.vercel.app/" target="_blank">https://skyblue.vercel.app/</a><br/>
+  Email : skyb90363@gmail.com<br/>
+  Skype : live:.cid.a577451f61bbbce<br/>
   
   
 
