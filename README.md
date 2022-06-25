@@ -10,7 +10,6 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: <br/>
-  Site : <a href="https://skyblue.vercel.app/" target="_blank">https://skyblue.vercel.app/</a><br/>
   Email : skyb90363@gmail.com<br/>
   Skype : live:.cid.a577451f61bbbce<br/>
   Phone : +(1) 628-500-2292<br/>
